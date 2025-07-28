@@ -35,7 +35,7 @@ I’m a **fourth-year B.Tech CSE student** passionate about full-stack web devel
 - AWS, Docker, Kubernetes, Redis, JWT, Apache Kafka
 
 ### 🧩 Other
-- Data Structures & Algorithms, Git & GitHub, Agile Methodologies, Version Control
+- Data Structures & Algorithms, Git & GitHub, Agile Methodologies, Version Control,firebase
 
 ---
 
