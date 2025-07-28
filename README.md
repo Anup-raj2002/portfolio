@@ -16,7 +16,7 @@ Welcome to my personal developer portfolio, built using **React.js + Vite** and 
 
 ## 🧑‍🎓 About Me
 
-I’m a **third-year B.Tech CSE student** passionate about full-stack web development with hands-on experience in building robust and scalable web apps. I’ve actively participated in hackathons and internships where I worked with cutting-edge technologies and real-world deployment strategies.
+I’m a **fourth-year B.Tech CSE student** passionate about full-stack web development with hands-on experience in building robust and scalable web apps. I’ve actively participated in hackathons and internships where I worked with cutting-edge technologies and real-world deployment strategies.
 
 ---
 
