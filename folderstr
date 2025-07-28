@@ -1,0 +1,27 @@
+portfolio-website/
+├── public/
+│   └── resume.pdf
+├── src/
+│   ├── assets/
+│   │   └── logo.svg
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Skills.jsx
+│   │   └── ThreeBackground.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── commands.md
+├── index.html
+├── package.json
+├── postcss.config.js
+├── README.md
+├── tailwind.config.js
+└── vite.config.js
